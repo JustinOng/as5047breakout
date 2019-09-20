@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=as5047breakout.SchDoc
+Record=SheetSymbol|SourceDocument=as5047breakout.SchDoc|Designator=A|SchDesignator=A|FileName=as5047unit.SchDoc|SymbolType=Normal|RawFileName=as5047unit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=as5047breakout.SchDoc|Designator=B|SchDesignator=B|FileName=as5047unit.SchDoc|SymbolType=Normal|RawFileName=as5047unit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
